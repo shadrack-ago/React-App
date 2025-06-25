@@ -178,7 +178,7 @@ Built with **Tailwind CSS** featuring:
 4. **Deploy**
    ```bash
    npm run build
-   npm run deploy
+   npm run deploygit 
    ```
 
 ## 📱 Screenshots
